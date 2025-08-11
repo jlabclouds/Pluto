@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/azure/quantum/how-to-work-with-qsharp-projects?source=recommendations&tabs=tabid-python%2Ctabid-python-run
